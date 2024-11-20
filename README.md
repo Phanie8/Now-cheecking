@@ -19,13 +19,13 @@ TechFolio Mobile App.
 * HTML, CSS and JS
 
 # Home Screen
-<img src="assets/images/screenshot/onboarding.jpg">  
+<img src="assets/screenshot/onboarding.jpg">  
 
 # Sign Up Screen
-<img src="assets/images/screenshot/signup.jpg">  
+<img src="assets/screenshot/signup.jpg">  
 
 # Sign In Screen
-<img src="assets/images/screenshot/signin.jpg">  
+<img src="assets/screenshot/signin.jpg">  
 
 # Tabs Screen
-<img src="assets/images/screenshot/tabs.jpg">
+<img src="assets/screenshot/tabs.jpg">
